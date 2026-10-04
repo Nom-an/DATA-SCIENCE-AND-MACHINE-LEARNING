@@ -8,3 +8,15 @@ print(mark.mean())
 print(mark.max())
 print(mark.min())
 print(mark.sum())
+
+
+
+
+arr = [10,101,2,30,4]
+
+a = np.array(arr)
+
+print (a[1:5])
+
+rrr = np.random.rand(5)
+print(rrr)
